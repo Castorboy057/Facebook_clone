@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745766083373",
+    "project_id": "facebook-clone-aa359",
+    "storage_bucket": "facebook-clone-aa359.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745766083373:android:64e432ea1ae11a4a9851a4",
+        "android_client_info": {
+          "package_name": "com.example.facebook_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDFfaWisgRmhpBi2l29NHk5EC2R3INZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
